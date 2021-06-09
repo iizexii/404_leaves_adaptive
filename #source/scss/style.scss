@@ -131,6 +131,10 @@
 	@media (max-width: 1300px) {
 		right: 4rem;
 	}
+	@media (max-width: 610px) {
+		right: 40px;
+	}
+
 	&__line {
 		border-bottom: 2px solid #ffffff;
 		height: 2px;
